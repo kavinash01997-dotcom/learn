@@ -13,13 +13,14 @@ Is repository me Linux commands, firewall configuration,
 Samba server setup aur networking practice files hain.
 
 ## Topics Covered
-- iptables
-- firewalld
-- samba
-- vsftpd
-- docker
+- 👇 iptables
+- 👇 firewalld
+- 👇 samba
+- 👇 vsftpd
+- 👇 docker
 
 ## Commands Example
 
 ```bash
 iptables -A INPUT -p tcp --dport 80 -j ACCEPT
+
