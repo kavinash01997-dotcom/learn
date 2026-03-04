@@ -1,8 +1,6 @@
 
 ---
 
-## 
-this purpose only github testing purpose only 
 
 # 🔥 Agar aap Linux Practice Repo bana rahe ho
 
@@ -10,6 +8,11 @@ Aap ye likh sakte ho 👇
 
 ```md
 # Linux Practice Repository
+
+## 
+this purpose only github testing purpose only
+
+
 
 ## About
 Is repository me Linux commands, firewall configuration,
